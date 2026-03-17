@@ -1,4 +1,5 @@
 def add(a, b):
 return a + b
-if __name__ == "__main__":
+
+if name == "main":
 print(add(3, 4))
